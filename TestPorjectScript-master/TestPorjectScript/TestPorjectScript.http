@@ -1,0 +1,6 @@
+@TestPorjectScript_HostAddress = http://localhost:5017
+
+GET {{TestPorjectScript_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
